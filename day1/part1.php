@@ -1,6 +1,6 @@
 <?php
 
-$inputfile = fopen('input1.txt', 'r');
+$inputfile = fopen('input.txt', 'r');
 
 $columns = (object)[
     'a' => [],

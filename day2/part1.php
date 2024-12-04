@@ -2,7 +2,7 @@
 
 require 'general.php';
 
-$file = fopen('input1.txt', 'r');
+$file = fopen('input.txt', 'r');
 
 $reports = [];
 
